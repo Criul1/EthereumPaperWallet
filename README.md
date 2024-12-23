@@ -39,7 +39,7 @@ Follow the on-screen instructions to generate your Ethereum paper wallet. The ap
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project's coding standards and includes appropriate tests.
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project's coding standards and includes appropriate tests..
 
 ## License
 
