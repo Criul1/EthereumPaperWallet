@@ -39,7 +39,7 @@ Follow the on-screen instructions to generate your Ethereum paper wallet. The ap
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project's coding standards and includes appropriate tests..
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project's coding standards and includes appropriate tests.
 
 ## License
 
@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Criul1/EthereumPaperWallet/issues)..........
+For any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Criul1/EthereumPaperWallet/issues).
